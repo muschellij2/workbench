@@ -1,0 +1,23 @@
+
+[![Travis build
+status](https://travis-ci.org/muschellij2/workbench.svg?branch=master)](https://travis-ci.org/muschellij2/workbench)
+[![AppVeyor Build
+Status](https://ci.appveyor.com/api/projects/status/github/muschellij2/workbench?branch=master&svg=true)](https://ci.appveyor.com/project/muschellij2/workbench)
+[![Coverage
+status](https://coveralls.io/repos/github/muschellij2/workbench/badge.svg?branch=master)](https://coveralls.io/r/muschellij2/workbench?branch=master)
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# workbench Package:
+
+The goal of `workbench` is to provide wraps a subset of the commands
+from the the Human ‘Connectome’ Workbench software
+<https://www.humanconnectome.org/software/connectome-workbench>.
+
+## Installation
+
+You can install `workbench` from GitHub with:
+
+``` r
+# install.packages("remotes")
+remotes::install_github("muschellij2/workbench")
+```
